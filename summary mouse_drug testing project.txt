@@ -1,9 +1,0 @@
-- 10 different drugs were tested;
-- 4 were deemed as promising (no reasons stated);
-  but based on distribution statistics Capomulin and Ramicane are good, Ceftamin and Infubinol have low variance and SEM compared to other drugs.
-- There is a balanced number of mice across all drugs tested.
-- Capomulin and Ramicane have the most number of mice at the end of the study.
-- Apart from Capomulin (21) and Ramicane (20), all other drugs have less than 15 mice at the end of the study.
-- Infubinol has an outlier as seen in the boxplot.
-- There is a high correlation between mouse weight and average tumor volume, of 0.84.
-- Interestingly, tumor volume increases after about timepoint 33, after a sharp reduction from around timepoint 24, at least for the selected mouse 'b128'.
